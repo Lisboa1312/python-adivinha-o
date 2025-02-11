@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify</title>
+    <link rel="stylesheet" href="syle.css">
+    <link rel="stylesheet" href="imagens/">
+</head>
+<body>
+    
+</body>
+</html><body>
+
+    <div class="fundo">
+      <div class="logo">
+        <a href="#">
+        <img src="imagens/Spotify_logo_with_text.svg.png">
+        </a>
+      </div>
+     <div>
+
+     </div>
+      <div class="nav">
+        <ul>
+          <li>
+            <a href="#">
+              <div>Home</div>
+            </a>
+          </li>
+
+          <li>
+            <a href="#">
+              
+              <div>Pesquisa</div>
+            </a>
+          </li>
+
+          <li>
+            <a href="#">
+              <div class="fa fas fa-book"></div>
+              <div>Biblioteca</div>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="nav">
+        <ul>
+          <li>
+            <a href="#">
+              <div class="fa fas fa-plus-square"></div>
+              <div>Criar playlist</div>
+            </a>
+          </li>
+
+          <li>
+            <a href="#">
+              <div class="fa fas fa-heart"></div>
+              <div>Musicas curtidas</div>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+<div class="RGM">
+  <ul>
+      
+    <li>
+      <a href="https://www.instagram.com/lisboa_luq?igsh=MWpjdXIyZDJqY3liZw=="target="_blank">
+        Lucas Lisboa: RGM - 38111217</a>
+    </li>
+  </ul>
+</div>
+</div>
+
+    <div class="main-container">
+      <div class="Musicas">
+        <div class="prev-next-buttons">
+            
+          <button type="button" class="fa fas fa-chevron-left" ></button>
+          
+          
+          <button type="button" class="fa fas fa-chevron-right"></button>
+        
+               
+          </form>
+        
+        
+        </div>
+
+        <div class="Icones">
+          <ul>
+            <li>
+              <a href="https://www.spotify.com/br-pt/premium/?utm_source=br-pt_brand_contextual_text&utm_medium=paidsearch&utm_campaign=alwayson_latam_br_performancemarketing_core_brand+contextual+text+br-pt+google&gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnMP46djFSgh3yWSx4jNkOTioksfIU0Vx8TAZ0qzLmXdRXgAnMVWcogaAngFEALw_wcBhttps://www.spotify.com/br-pt/premium/?utm_source=br-pt_brand_contextual_text&utm_medium=paidsearch&utm_campaign=alwayson_latam_br_performancemarketing_core_brand+contextual+text+br-pt+google&gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnMP46djFSgh3yWSx4jNkOTioksfIU0Vx8TAZ0qzLmXdRXgAnMVWcogaAngFEALw_wcB" target="_blank">
+                Premium</a>
+            </li>
+            <li>
+              <a href="https://support.spotify.com/br-pt/" target="_blank"target="_blank">
+                Suporte</a>
+            </li>
+            <li>
+              <a href="https://www.spotify.com/br-pt/download/windows/" target="_blank">
+                Download</a>
+            </li>
+            <li class="divisao">|</li>
+            <li>
+              <a href="https://www.spotify.com/br-pt/signup" target="_blank">
+              Criar Conta</a>
+                
+            </li> 
+          </ul>
+          <a href="https://accounts.spotify.com/pt-BR/login" target="_blank" ><input type="button" value="Fazer login"></a>
+          
+        
+        </div>
+      </div>
+      <a class="Artistas" href="https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr?si=XHeR3mugS1mWvNxOSTVyIw" target="_blank">
+      <div class="playlists">
+        <h2>Spotify Playlists</h2>
+
+        <div class="list">
+          <div class="item">
+         <img src="imagens/laur.jpg">
+            <div class="play">
+              <a class="Artistas" href="https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl?si=ZkE7WbQhQACAVUnjB3VdnQ " target="_blank" >
+              </div>
+             <h4>Internacionais</h4>
+            <p> Lauryn hill</p>
+
+          </div>
+        </a>
+
+          <div class="item">
+            <img src="imagens/ryan.jpg">
+            <div class="play">
+              
+              <a class="Artistas" href="https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY?si=EDwrWPoORfiRXfgwbD032w "  target="_blank">
+
+            </div>
+            <h4>funk</h4>
+            <p>Mc Ryan...</p>
+            
+          </div>
+        </a>
+
+          
+          
+          
+          <div class="item">
+           <img src="imagens/mateus.jpg">
+            <div class="play">
+              
+              <a class="Artistas" href="https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr?si=kCzcYE9SQrq0PVRmMQJtKg" target="_blank"v>
+
+            </div>
+            <h4>Sertanejos</h4>
+            <p>Matheus e kauan... </p>
+          </div>
+        </a>
+
+          
+          
+          
+          
+          <div class="item">
+            <img src="imagens/andre.jpg">
+            <div class="play">
+
+              <a class="Artistas" href="https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo?si=Qf1Eg2fPRCOeYQ02SZKYVQ"  target="_blank"v>
+ 
+            </div>
+            <h4>Classicas </h4>
+            <p>Musica classicas </p>
+          </div>
+        </a>
+
+          
+          
+          
+          
+          <div class="item">
+            <img src="imagens/menos é mais.jpg">
+            <div class="play">
+
+             <a class="Artistas" href="https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi?si=oZS5yT6wTQ2eXDF76RDA9A " target="_blank">
+
+            </div>
+            <h4>Pagode</h4>
+            <p>Grupo menos é mais...</p>
+          </div>
+        </a>
+
+
+
+
+
+          <div class="item">
+           <img src="imagens/racionais.jpg" >
+            <div class="play">
+              
+              <a class="Artistas" href="https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr?si=XHeR3mugS1mWvNxOSTVyIw"  target="_blank">
+
+            </div>
+            <h4>Rap
+            </h4>
+            <p>Melhores Musicas de 2024</p>
+          </div>
+        </a>
+
+
+
+
+
+          <div class="item">
+           <img src="imagens/bruno.jpg" >
+            <div class="play">
+
+              <a class="Artistas" href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C?si=0KvhSboSRWmiSVyT75zK0Q "  target="_blank">
+
+            </div>
+            <h4>Pop</h4>
+            <p>Bruno Mars</p>
+          </div>
+        </div>
+      </div>
+    </a>
+
+
+
+
+
+      <div class="playlists">
+        <h2> PodCasts</h2>
+        <div class="list">
+          <div class="item">
+          <img src="imagens/podpah.jpg" >
+            <div class="play">
+              
+              <a class="Artistas" href="https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a?si=Ol5l0NjuTRiNT-aAyPLIIQ " target="_blank">
+
+            </div>
+            <h4>PodPah</h4>
+            
+          </div>
+        </a>
+
+
+
+
+          <div class="item">
+            <img src="imagens/Poddelas.jpg" > 
+            <div class="play">
+
+             <a class="Artistas" href="https://open.spotify.com/show/4Rc0ZXgYLd0NZucIKYjurg?si=_sTZ7c48R2K357V192fkCw" target="_blank">
+
+            </div>
+            <h4>PodDelas</h4>
+            
+          </div>
+        </a>
+
+
+
+
+          <div class="item">
+            <img src="imagens/brown.jfif"> 
+            <div class="play">
+
+             <a class="Artistas" href="https://open.spotify.com/show/0GnKiYeK11476CfoQEYlEd?si=J5h25szfRUmXSVkBJI3caQ" target="_blank">
+
+            </div>
+            <h4>Mano A Mano </h4>
+            
+          </div>
+        </a>
+
+
+
+
+          <div class="item">
+            <img src="imagens/Fatos desconhecidos.jpg " > 
+            <div class="play">
+              <a class="Artistas" href="https://open.spotify.com/show/6HxarMf3SFgAwaYyiYPpKb?si=C9Onn-BASDeATA_TdJ4nJA " target="_blank">
+              
+            </div>
+            <h4>Fatos Desconhecidos </h4>
+            
+          </div>
+        </a>
+
+
+
+
+
+          <div class="item">
+            <img src= "imagens/Primo rico.jpg"> 
+            <div class="play">
+
+             <a class="Artistas" href="https://open.spotify.com/show/2gCj9YG9tjMexhS4pIlRHo?si=iq4WQOcERBiqskSUo-KeLA " target="_blank" >
+
+            </div>
+            <h4>Primo Rico</h4>
+            
+          </div>
+        </a>
+
+
+
+          
+          <div class="item">
+            <img src="imagens/Flow.jfif" > 
+            <div class="play">
+
+             <a class="Artistas" href="https://open.spotify.com/show/3V5LBozjo4vNg2oJoA4Wb2?si=eueI5jATTD-PU0WCOW9aEQ " target="_blank">
+
+            </div>
+            <h4>Flow PodCasts </h4>
+            
+          </div>
+        </a>
+
+
+
+
+          <div class="item">
+            <img src="imagens/muca.jfif" > 
+            <div class="play">
+              
+              <a class="Artistas" href="https://open.spotify.com/show/4u4SSnGbujdNMxleCbmy2p?si=cd6a7696124b4a13" target="_blank">
+
+            </div>
+            <h4>Groselha Talk</h4>
+            
+          </div>
+        </a>
+
+
+          
+            
+          </div>
+        </div>
+      </div>
+    </body>
