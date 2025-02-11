@@ -1,0 +1,215 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  
+  body {
+    background-image: linear-gradient( to right, rgb(0, 0, 0), rgb(11, 12, 10), rgb(14, 19, 14), rgb(13, 27, 13) );
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  
+    
+  
+  
+  .fundo {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 196px;
+    background-color: #0a0a0a;
+    padding: 24px;
+  }
+  .fundo .logo img {
+    width: 130px;
+  }
+  .fundo .nav ul {
+    list-style: none;
+    margin-top: 20px;
+  }
+  .fundo .nav ul li {
+    padding: 10px 0px;
+  }
+  .fundo .nav ul li a {
+    color: #b3b3b3;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 13px;
+  }
+  .fundo .nav ul li a:hover,
+  .fundo .nav ul li a:active,
+  .fundo .nav ul li a:focus {
+    color: #ffffff;
+  }
+    
+  
+  
+  
+  .fundo .RGM {
+    position: absolute;
+    bottom: 100px;
+  }
+  .fundo .RGM ul {
+    list-style: none;
+  }
+  .fundo .RGM ul li {
+    padding-bottom: 5px;
+  }
+  .fundo .RGM ul li a {
+    color: #b3b3b3;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 10px;
+  }
+  
+  .main-container {
+    margin-left: 245px;
+    margin-bottom: 100px;
+  }
+  
+  .Musicas {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0c0c0c;
+    padding: 14px 30px;
+  }
+  .Musicas .prev-next-buttons button {
+    color: #000000;
+    cursor: not-allowed;
+    width: 34px;
+    height: 34px;
+    border-radius: 100%;
+    font-size: 18px;
+    border: 0px;
+    background-color: #0c0c0c;
+    margin-right: 10px;
+  }
+
+  
+  .Musicas .Icones {
+    display: flex;
+    align-items: center;
+  }
+  .Musicas .Icones ul {
+    list-style: none;
+  }
+  .Musicas .Icones ul li {
+    display: inline-block;
+    margin: 0px 8px;
+    width: 70px;
+  }
+  .Musicas .Icones ul li a {
+    color: #b3b3b3;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+  .Musicas .Icones ul li a:hover,
+  .Musicas .Icones ul li a:active,
+  .Musicas .Icones ul li a:focus {
+    color: #ffffff;
+    font-size: 15px;
+  }
+  .Musicas .Icones ul li.divisao {
+    color: #ffffff;
+    font-size: 26px;
+    margin: 0px 20px;
+    width: auto;
+  }
+  .Musicas .Icones input {
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 14px 30px;
+    border: 0px;
+    border-radius: 40px;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  .Musicas .Icones button:hover,
+  .Musicas .Icones button:active,
+  .Musicas .Icones button:focus {
+    background-color: #f2f2f2;
+  }
+  .playlists {
+    padding: 20px 40px;
+  }
+  .playlists h2 {
+    color: #ffffff;
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .playlists .list {
+    display: flex;
+    gap: 20px;
+    overflow: hidden;
+  }
+  .playlists .list .item {
+    min-width: 140px;
+    width: 160px;
+    padding: 15px;
+    background-color: #000000;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all ease 0.4s;
+  }
+  .playlists .list .item:hover {
+    background-color: #1db954;
+  }
+  .playlists .list .item img {
+    width: 100%;
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }
+  .playlists .list .item .play {
+    position: relative;
+  }
+  
+  .playlists .list .item:hover .play .fa {
+    opacity: 1;
+    transform: translateY(-20px);
+  }
+  .playlists .list .item h4 {
+    color: #ffffff;
+    font-size: 14px;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .playlists .list .item p {
+    color: #989898;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 600;
+  }
+  .playlists hr {
+    margin: 70px 0px 0px;
+    border-color: #000000;
+  }
+  
+  .play-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+  }
+  
+  .play-button img {
+    transition: transform 0.2s;
+  }
+  
+  .Artistas{
+
+    color: #ffffff;
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-decoration: none;
+
+  }
+ 
+  
